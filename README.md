@@ -1,1 +1,1 @@
-# pretraga_wa206_207
+Front-end kod za Web aplikacije
